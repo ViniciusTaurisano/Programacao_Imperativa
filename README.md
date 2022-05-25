@@ -1,6 +1,6 @@
-# Programacao_Imperativa
+## Programacao_Imperativa
 
-checkpoint1_programacao_imperativa
+## CheckPoint1_programacao_imperativa
 
 Primeiro Checkpoint - Turma 2 Olá, você foi contratado para executar este projeto. É importante que você analise, entenda o pedido do cliente e desenvolva conforme solicitado. Veja abaixo os requisitos do projeto:
 
