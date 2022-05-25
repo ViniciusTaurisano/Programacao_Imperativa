@@ -1,0 +1,14 @@
+{
+  "name": "checkpoint1",
+  "version": "1.0.0",
+  "description": "atividade checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vini Taurisano",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
